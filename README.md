@@ -57,3 +57,13 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por 16 memb
 9. Raphael
 10. Ricardo
 11. Victor
+
+## Controller
+
+O controller desempenha um papel que é a interligação entre o Model e a View. O Controller garante o funcionamento perfeito do site e coordena a comunicação de lógica de negócios e apresentação, harmonizando a apresentação do site.
+
+
+O model apresenta a forma estrutural de dados essencias do site. O model processa atividades de alteração ou inserção de dados. sua funcionalidade também incluem uma abordagem organizada e de forma efeciente de gerenciar as necessidades do funcionamento do sistema.   
+
+
+A view é a parte visual do site onde podemos utilizar linguagens como html e css. Focando principalmente na apresentação gráfica dos dados impostos no site, visando melhorar a estética e a aparência deixando mais prático a ultilização do mesmo.
